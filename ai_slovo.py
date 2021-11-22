@@ -4,4 +4,3 @@ def vyber_slova():
     seznam = ["polevka", "rizek", "dort"]
     slovo = seznam[index]
     return slovo
-
